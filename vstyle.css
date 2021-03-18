@@ -1,0 +1,67 @@
+
+
+
+BODY
+{
+			background-color: white;
+			color: black;
+			margin-left: 0px;
+			margin-top: 0px
+}
+TABLE
+{
+			background-color: #5b92e5;
+			color: black;
+			font-size: 14px;
+     		font-weight: bold;
+			font-family: Tahoma;
+    		text-decoration: none;
+			padding: 7px;
+			border-color: 435eab;
+			margin-left: 0px;
+			margin-top: 0px
+}
+
+p
+{
+			background-color: white;
+			color: black;
+    		text-decoration: none;
+			font-family: "Times New Roman", Times, serif;
+			font-size: 30px
+}
+.menu
+A {			
+			background-color: #5b92e5;
+			color: black;
+			font-size: 14px;
+     		font-weight: bold;
+			font-family: Tahoma;
+    		text-decoration: none
+}
+A:link 		{ color: black;
+    		text-decoration: none }
+A:active 	{ color: red;
+    		text-decoration: none }
+A:visited 	{ color: black;
+    		text-decoration: none }
+A:hover 	{ color: red;
+    		text-decoration: none }
+
+.Writeup
+{
+			background-color: white;
+			width: 750px;
+			margin-left: 20px;
+			margin-right: 25px;
+			margin-top: 30px;
+			margin-bottom: 10px;
+			color: #202020;
+			font-family: "Times New Roman", Times, serif;
+			font-size: 20px
+
+
+
+
+
+
